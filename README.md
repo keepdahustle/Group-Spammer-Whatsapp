@@ -12,8 +12,10 @@ node index.js
 ```
 
 ### How to use this bot?
-Send a message into the bot that you're connecting (using diffrent number)
+Send a message into the bot that you're connecting (using different number)
 ```
 !spam [targetNumber ex : 6289578921] [AmountSpam]
 ```
 
+### Example
+![alt text](https://raw.githubusercontent.com/keepdahustle/Group-Spammer-Whatsapp/refs/heads/main/Screenshot%202025-01-31%20010408.png)
